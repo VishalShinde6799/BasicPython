@@ -1,4 +1,4 @@
-numpy==1.19.1
+numpy==1.22.0
 matplotlib==3.2.2
 nltk==3.5
 wordcloud==1.8.0
